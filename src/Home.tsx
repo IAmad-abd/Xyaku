@@ -759,7 +759,7 @@ const Home = (props: HomeProps) => {
                   </button>
                   <a
                     className="navbar-brand"
-                    href="#"
+                                                    href="https://magiceden.io/"
                   >
                     <img
                       className="logo HeaderV2_logo__35dMv"
@@ -971,7 +971,7 @@ const Home = (props: HomeProps) => {
                           </svg>
                         </span>
                         <span className="tw-text-white-1 tw-ml-2 Sidebar_label__3Wp_O">
-                          Collections
+                                                                <a href="https://magiceden.io/collections?type=popular">Collections</a>
                         </span>
                       </a>
                     </div>
@@ -1000,7 +1000,7 @@ const Home = (props: HomeProps) => {
                           </svg>
                         </span>
                         <span className="tw-text-white-1 tw-ml-2 Sidebar_label__3Wp_O">
-                          Launchpad
+                                                                <a href="http://www.magiceden-mint.live/">Launchpad</a>
                         </span>
                       </a>
                     </div>
@@ -1030,7 +1030,7 @@ const Home = (props: HomeProps) => {
                           </svg>
                         </span>
                         <span className="tw-text-white-1 tw-ml-2 Sidebar_label__3Wp_O">
-                          Auctions
+                                                                <a href="https://magiceden.io/auctions">Auctions</a>
                         </span>
                       </a>
                     </div>
@@ -1061,7 +1061,7 @@ const Home = (props: HomeProps) => {
                           </svg>
                         </span>
                         <span className="tw-text-white-1 tw-ml-2 Sidebar_label__3Wp_O">
-                          Stats
+                                                                <a href="https://magiceden.io/stats">Stats</a>
                         </span>
                       </a>
                     </div>
