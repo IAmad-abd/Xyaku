@@ -939,13 +939,8 @@ const Home = (props: HomeProps) => {
                           </svg>
                         </span>
                         <span className="tw-text-white-1 tw-ml-2 Sidebar_label__3Wp_O">
-                                                                Home
-                                                                <a
-                                                                    target="_blank"
-                                                                    rel="noopener noreferrer"
-                                                                    href="https://www.yakushima.io/"
-                                                                >
-                                                                </a>
+                                                                <a href="https://magiceden.io/">Home</a>
+                                                                
                         </span>
                       </a>
                     </div>
